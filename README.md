@@ -20,7 +20,7 @@ Push the changes in the branch to the Github repository
 
 ## PROGRAM
 
-'''
+```
 Model.py
 
 from django.db import models
@@ -40,7 +40,7 @@ Admin.py
 from django.contrib import admin
 from .models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)
-'''
+```
 
 ## OUTPUT
 
