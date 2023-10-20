@@ -9,6 +9,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## DESIGN STEPS
 
+
 ### STEP 1:
 Commit all the updates
 
